@@ -1,5 +1,5 @@
 # dailiess-api
-Created API's and also tested them with Postman for an e-commerce website i.e under development and testing phase.
+Created Dailiess API's in Codeigniter framework and also tested them with Postman for an e-commerce website i.e under development and testing phase.
 
 Dailiess is an e-commerce Website that will be used for daily/everyday house hold eatables, chores & products
 like milk, vegetables, grocery etc and will be provided from your locality only, moreover in just around 30 min max time from the request of order.
